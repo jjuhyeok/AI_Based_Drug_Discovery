@@ -1,0 +1,119 @@
+Environments
+ - Feature_Engineering.ipynb
+------------------------------------------------------------------------------
+Operating System: Windows 10-10.0.19045
+Python Version: 3.9.23
+CPU: AMD64
+CPU Cores: 6 physical, 12 logical
+Total Memory: 15.93 GB
+Number of GPUs: 1
+GPU 0: NVIDIA GeForce RTX 3060Ti
+
+# Name                    Version                   Build  Channel
+alembic                   1.16.4                   pypi_0    pypi
+asttokens                 3.0.0              pyhd8ed1ab_1    conda-forge
+backcall                  0.2.0              pyh9f0ad1d_0    conda-forge
+bzip2                     1.0.8                h2bbff1b_6  
+ca-certificates           2025.7.14            h4c7d964_0    conda-forge
+catboost                  1.2.8                    pypi_0    pypi
+certifi                   2025.7.14                pypi_0    pypi
+charset-normalizer        3.4.2                    pypi_0    pypi
+colorama                  0.4.6              pyhd8ed1ab_1    conda-forge
+colorlog                  6.9.0                    pypi_0    pypi
+comm                      0.2.2              pyhd8ed1ab_1    conda-forge
+contourpy                 1.3.0                    pypi_0    pypi
+cycler                    0.12.1                   pypi_0    pypi
+debugpy                   1.8.15           py39h1f3cc84_0    conda-forge
+decorator                 5.2.1              pyhd8ed1ab_0    conda-forge
+executing                 2.2.0              pyhd8ed1ab_0    conda-forge
+expat                     2.7.1                h8ddb27b_0  
+filelock                  3.18.0                   pypi_0    pypi
+fonttools                 4.59.0                   pypi_0    pypi
+fsspec                    2025.7.0                 pypi_0    pypi
+greenlet                  3.2.3                    pypi_0    pypi
+huggingface-hub           0.34.3                   pypi_0    pypi
+idna                      3.10                     pypi_0    pypi
+importlib-metadata        8.7.0              pyhe01879c_1    conda-forge
+importlib-resources       6.5.2                    pypi_0    pypi
+ipykernel                 6.29.5             pyh4bbf305_0    conda-forge
+ipython                   8.12.0             pyh08f2357_0    conda-forge
+jedi                      0.19.2             pyhd8ed1ab_1    conda-forge
+jinja2                    3.1.6                    pypi_0    pypi
+joblib                    1.5.1                    pypi_0    pypi
+jupyter_client            8.6.3              pyhd8ed1ab_1    conda-forge
+jupyter_core              5.7.2            py39hcbf5309_0    conda-forge
+kiwisolver                1.4.7                    pypi_0    pypi
+krb5                      1.21.3               hdf4eb48_0    conda-forge
+libffi                    3.4.4                hd77b12b_1  
+libsodium                 1.0.20               hc70643c_0    conda-forge
+lightgbm                  4.6.0                    pypi_0    pypi
+mako                      1.3.10                   pypi_0    pypi
+markupsafe                3.0.2                    pypi_0    pypi
+matplotlib                3.9.4                    pypi_0    pypi
+matplotlib-inline         0.1.7              pyhd8ed1ab_1    conda-forge
+mordred                   1.2.0                    pypi_0    pypi
+mpmath                    1.3.0                    pypi_0    pypi
+narwhals                  1.48.0                   pypi_0    pypi
+nest-asyncio              1.6.0              pyhd8ed1ab_1    conda-forge
+networkx                  2.8.8                    pypi_0    pypi
+numpy                     1.24.4                   pypi_0    pypi
+openssl                   3.5.1                h725018a_0    conda-forge
+optuna                    4.4.0                    pypi_0    pypi
+packaging                 25.0               pyh29332c3_1    conda-forge
+pandas                    2.3.1                    pypi_0    pypi
+parso                     0.8.4              pyhd8ed1ab_1    conda-forge
+pickleshare               0.7.5           pyhd8ed1ab_1004    conda-forge
+pillow                    11.3.0                   pypi_0    pypi
+pip                       25.1               pyhc872135_2  
+platformdirs              4.3.8              pyhe01879c_0    conda-forge
+plotly                    6.2.0                    pypi_0    pypi
+prompt-toolkit            3.0.51             pyha770c72_0    conda-forge
+prompt_toolkit            3.0.51               hd8ed1ab_0    conda-forge
+psutil                    7.0.0            py39ha55e580_0    conda-forge
+pure_eval                 0.2.3              pyhd8ed1ab_1    conda-forge
+pyarrow                   21.0.0                   pypi_0    pypi
+pygments                  2.19.2             pyhd8ed1ab_0    conda-forge
+pyparsing                 3.2.3                    pypi_0    pypi
+python                    3.9.23               h716150d_0  
+python-dateutil           2.9.0.post0        pyhe01879c_2    conda-forge
+python-graphviz           0.21                     pypi_0    pypi
+python_abi                3.9                      2_cp39    conda-forge
+pytz                      2025.2                   pypi_0    pypi
+pywin32                   311              py39h5fb4b08_0    conda-forge
+pyyaml                    6.0.2                    pypi_0    pypi
+pyzmq                     27.0.0           py39h03e5c00_0    conda-forge
+rdkit-pypi                2022.9.5                 pypi_0    pypi
+regex                     2025.7.33                pypi_0    pypi
+requests                  2.32.4                   pypi_0    pypi
+safetensors               0.5.3                    pypi_0    pypi
+scikit-learn              1.6.1                    pypi_0    pypi
+scipy                     1.13.1                   pypi_0    pypi
+setuptools                78.1.1           py39haa95532_0  
+six                       1.17.0             pyhe01879c_1    conda-forge
+sqlalchemy                2.0.41                   pypi_0    pypi
+sqlite                    3.50.2               hda9a48d_1  
+stack_data                0.6.3              pyhd8ed1ab_1    conda-forge
+sympy                     1.14.0                   pypi_0    pypi
+threadpoolctl             3.6.0                    pypi_0    pypi
+tk                        8.6.14               h5e9d12e_1  
+tokenizers                0.21.4                   pypi_0    pypi
+tomli                     2.2.1                    pypi_0    pypi
+torch                     2.7.1                    pypi_0    pypi
+tornado                   6.5.1            py39ha55e580_0    conda-forge
+tqdm                      4.67.1                   pypi_0    pypi
+traitlets                 5.14.3             pyhd8ed1ab_1    conda-forge
+transformers              4.54.1                   pypi_0    pypi
+typing_extensions         4.14.1             pyhe01879c_0    conda-forge
+tzdata                    2025.2                   pypi_0    pypi
+ucrt                      10.0.22621.0         haa95532_0  
+urllib3                   2.5.0                    pypi_0    pypi
+vc                        14.3                h2df5915_10  
+vc14_runtime              14.44.35208         h4927774_10  
+vs2015_runtime            14.44.35208         ha6b5a95_10  
+wcwidth                   0.2.13             pyhd8ed1ab_1    conda-forge
+wheel                     0.45.1           py39haa95532_0  
+xgboost                   2.1.4                    pypi_0    pypi
+xz                        5.6.4                h4754444_1  
+zeromq                    4.3.5                ha9f60a1_7    conda-forge
+zipp                      3.23.0             pyhd8ed1ab_0    conda-forge
+zlib                      1.2.13               h8cc25b3_1  
